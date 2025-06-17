@@ -1,5 +1,5 @@
 # Computer-Intrusion-Detection-Lab
-The "Computer Intrusion Detection" practical labs are designed to equip myself with foundational and advanced skills in network reconnaissance, system analysis, and cybersecurity threats. Through real-world simulations and tool-based exercises, students learn to identify system vulnerabilities, gather intelligence through footprinting, understand phishing strategies, and analyze network behaviors. These labs lay the groundwork for effective intrusion detection, vulnerability mitigation, and proactive cybersecurity measures in a professional environment.
+The "Computer Intrusion Detection" practical labs are designed to equip myself with foundational and advanced skills in network reconnaissance, system analysis, and cybersecurity threats. Through real-world simulations and tool-based exercises, I learn to identify system vulnerabilities, gather intelligence through footprinting, understand phishing strategies, and analyze network behaviors. These labs lay the groundwork for effective intrusion detection, vulnerability mitigation, and proactive cybersecurity measures in a professional environment.
 
 ` 1. Conduct Network and System Footprinting `
 
